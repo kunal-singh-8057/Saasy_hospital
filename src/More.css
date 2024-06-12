@@ -1,0 +1,88 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.ha
+{
+    margin-left: 55%;
+    margin-top: -25%;
+    font-size: 35px;
+    width: 650px;
+}
+
+.psu
+{
+    width: 10%;
+    background-color: black;
+    height: 0.5vh;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+
+.para5
+{
+    color: rgba(125, 121, 135, 1);
+    font-size: 20px;
+    margin-top: 6%;
+    gap: 5%;
+}
+
+.btn3
+{
+    background-color: white;
+    color: rgba(69, 143, 246, 1);
+    border: 1px solid rgba(69, 143, 246, 1);
+    padding: 20px 40px;
+    border-radius: 40px;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+.sec
+{
+    margin-top: 20%;
+}
+
+.img10
+{
+    margin-left: -2%;
+}
+
+.download
+{
+    margin-left: -95%;
+    width: 500px;
+    margin-top: -65%;
+}
+
+.psa
+{
+    width: 10%;
+    background-color: black;
+    height: 0.5vh;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: -95%;
+}
+
+.para6
+{
+    margin-left: -95%;
+    font-size: 25px;
+    width: 500px;
+    margin-top: 4%;
+    color: rgba(125, 121, 135, 1);
+}
+
+.btn4
+{
+    background-color: white;
+    color: rgba(69, 143, 246, 1);
+    border: 1px solid rgba(69, 143, 246, 1);
+    padding: 20px 40px;
+    border-radius: 40px;
+    margin-top: 5%;
+    margin-left: -95%;
+}

@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.check
+{
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+.line
+{
+    background-color: black;
+    width: 5%;
+    height: 0.5vh;
+    border-radius: 10px;
+    margin-left: 48%;
+    margin-top: 5%;
+}
+
+.set3
+{
+    margin-top: 8%;
+    display: flex;
+    margin-left: 8.5%;
+    gap: 5%;
+}
+
+.cardhead1
+{
+    width: 380px;
+}
+
+.cardpara1
+{
+    width: 300px;
+    color: rgba(125, 121, 135, 1);
+}
+
+.btn5
+{
+    color: rgba(64, 137, 237, 1);
+    border: none;
+    background-color: white;
+    margin-top: 7%;
+    font-size: 20px;
+}
+
+.btn6
+{
+    color: rgba(64, 137, 237, 1);
+    border: 1px solid rgba(64, 137, 237, 1);
+    padding: 20px 40px;
+    border-radius: 30px;
+    margin-top: 5%;
+    margin-left: 45%;
+    background-color: white;
+}

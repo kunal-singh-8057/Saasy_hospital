@@ -1,0 +1,92 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.back4
+{
+   background-image: url('./Assets3/img16.png');
+   width: 100%;
+   height: 50vh;
+   margin-top: 5%;
+}
+
+.footlogo
+{
+    width: 200px;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.fotpara
+{
+    width: 350px;
+    margin-left: 10%;
+    color: white;
+}
+
+
+
+.navm1 h1{
+    color: white;
+    margin-left: -50%;
+    margin-top: -25%;
+    
+}
+
+
+
+.navm1 ul li a
+{
+    
+    color: white;
+    margin-left: -50%;
+    
+}
+
+.regionhead
+{
+    color: white;
+    margin-top: -23%;
+    margin-left: -5%;
+    
+}
+
+.regionlist
+{
+    margin-left: -8%;
+
+}
+
+.regionlist a {
+color: white;
+}
+
+.helphead
+{
+    color: white;
+    margin-top: -23%;
+    margin-left: 30%;
+}
+
+.helplist
+{
+    color: white;
+    margin-left: 27%;
+}
+
+.helplist a
+{
+    color: white;
+    
+}
+
+.doot
+{
+width: 7%;
+position: absolute;
+margin-top: 20%;
+
+}
+

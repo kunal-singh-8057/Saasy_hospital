@@ -1,0 +1,81 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.head
+{
+    margin-top: 5%;
+    margin-left: 35%;
+}
+
+.head h1{
+    margin-left: 17%;
+}
+
+.dash
+{
+  background-color: black;
+    width: 15%;
+    height: 0.5vh;
+    margin-top: 3%;
+    margin-left: 18.5%;
+    border-radius: 10px;
+}
+
+.para2
+{
+    color: (125, 121, 135, 1);
+    margin-top: 3%;
+    width: 830px;
+    margin-left: -15%;
+    color: rgba(125, 121, 135, 1);
+}
+
+.setcard
+{
+    margin-top: 5%;
+    margin-left: 20%;
+    display: flex;
+    gap: 8%;
+}
+
+
+
+.card1 h1{
+margin-top: 3%;
+
+}
+
+.para3
+{
+    width: 270px;
+    color: rgba(125, 121, 135, 1);
+}
+
+.hu
+{
+    margin-top: -12.5%;
+}
+
+.setcard2
+{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 20%;
+    gap: 8%;
+}
+
+.btn2
+{
+    background-color: white;
+    color: rgba(69, 143, 246, 1);
+    border: 1px solid rgba(69, 143, 246, 1);
+    padding: 20px 40px;
+    border-radius: 40px;
+    margin-top: 5%;
+    margin-left: 45%;
+}
+

@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.logo18
+{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.logodot
+{
+    margin-left: -10%;
+    margin-top: -75%;
+}
+
+
+
+.div1
+{
+    margin-top: -25%;
+    margin-left: 80%;
+  
+}
+
+
+.pu
+{
+    background-color: white;
+    width: 10%;
+    height: 0.5vh;
+    margin-left: 43%;
+    position: relative;
+    margin-top: 3%;
+    
+}
+
+.backhead
+{
+    color: white;
+    margin-left: 34%;
+    margin-top: -3%;
+    font-size: 40px;
+}
+
+.person
+{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.personh
+{
+    color: white;
+    margin-left: 28%;
+    margin-top: -7.5%;
+}
+
+.founder
+{
+    margin-left: 28%;
+    margin-top: 1%;
+    color: white;
+}
+
+.founderpara
+{
+    margin-left: 50%;
+    width: 350px;
+    color: white;
+    margin-top: -5%;
+}
