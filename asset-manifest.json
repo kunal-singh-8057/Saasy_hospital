@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Saasy_hospital/static/css/main.ae310972.css",
+    "main.js": "/Saasy_hospital/static/js/main.51bae643.js",
+    "static/js/453.aa8f5002.chunk.js": "/Saasy_hospital/static/js/453.aa8f5002.chunk.js",
+    "static/media/img16.png": "/Saasy_hospital/static/media/img16.1213df2745906605c495.png",
+    "static/media/img11.png": "/Saasy_hospital/static/media/img11.4320924f6afc1b2c9a3d.png",
+    "static/media/img10.png": "/Saasy_hospital/static/media/img10.017c0f36420164ea2b30.png",
+    "static/media/img15.png": "/Saasy_hospital/static/media/img15.27a15b115af6591b2345.png",
+    "static/media/img9.png": "/Saasy_hospital/static/media/img9.374ab961b7ac1ea6f328.png",
+    "static/media/img12.png": "/Saasy_hospital/static/media/img12.546f3395bd9966ab42e3.png",
+    "static/media/img14.png": "/Saasy_hospital/static/media/img14.14555dd0039a359e601c.png",
+    "static/media/img18.png": "/Saasy_hospital/static/media/img18.ea83791107299a9ffff9.png",
+    "static/media/fotlogo.png": "/Saasy_hospital/static/media/fotlogo.678d12bcf7d1ec8bedb8.png",
+    "index.html": "/Saasy_hospital/index.html",
+    "main.ae310972.css.map": "/Saasy_hospital/static/css/main.ae310972.css.map",
+    "main.51bae643.js.map": "/Saasy_hospital/static/js/main.51bae643.js.map",
+    "453.aa8f5002.chunk.js.map": "/Saasy_hospital/static/js/453.aa8f5002.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae310972.css",
+    "static/js/main.51bae643.js"
+  ]
+}
